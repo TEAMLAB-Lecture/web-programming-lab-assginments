@@ -10,10 +10,16 @@ body {
 
 aside {
 	background-color: pink;
-	/* TODO: 이 곳을 채우세요! */
+  position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 200px;
 }
 
 .main {
 	background-color: skyblue;
-	/* TODO: 이 곳을 채우세요! */
+	position: relative;
+	left: 200px;
+	top: 0px;
+	right: 0px;
 }
